@@ -1,5 +1,5 @@
 # @pasifer/eslint-config
-AdonisJS's [eslint-config](https://github.com/adonisjs/eslint-config) was used as the base for this package and modified for Parsifer's use. If you're working with Parsifer's services, we recommend you check out their packages.
+AdonisJS's [eslint-config](https://github.com/adonisjs/eslint-config) was used as the base for this package and modified for Parsifer's use. If you're NOT working with Parsifer's services, we recommend you check out their packages for more complete resources.
 
 ## Installation
 
