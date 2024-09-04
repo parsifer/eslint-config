@@ -4,7 +4,7 @@
   "description": "The base configuration for ESLint used by Parsifer",
   "main": "index.js",
   "type": "module",
-  "exports": { ".": "./index.json" },
+  "exports": { ".": "./index.js" },
   "files": [ "index.js" ],
   "scripts": {},
   "devDependencies": {
